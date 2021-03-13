@@ -56,7 +56,7 @@ GEM
     httpclient (2.6.0.1)
     jmespath (1.0.2)
       multi_json (~> 1.0)
-    json (1.8.3)
+    json (2.5.1)
     kitchen-ec2 (0.10.0)
       aws-sdk (~> 2)
       excon
