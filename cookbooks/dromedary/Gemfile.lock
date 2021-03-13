@@ -47,7 +47,7 @@ GEM
       dep-selector-libgecode (~> 1.0)
       ffi (~> 1.9)
     erubis (2.7.0)
-    excon (0.45.4)
+    excon (0.79.0)
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.10)
