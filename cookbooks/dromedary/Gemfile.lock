@@ -54,8 +54,7 @@ GEM
     hashie (2.1.2)
     hitimes (1.2.2)
     httpclient (2.6.0.1)
-    jmespath (1.0.2)
-      multi_json (~> 1.0)
+    jmespath (1.6.1)
     json (1.8.3)
     kitchen-ec2 (0.10.0)
       aws-sdk (~> 2)
@@ -69,7 +68,7 @@ GEM
       mixlib-log
     mixlib-log (1.6.0)
     mixlib-shellout (2.2.0)
-    multi_json (1.11.2)
+    multi_json (1.15.0)
     multipart-post (2.0.0)
     net-http-persistent (2.9.4)
     net-scp (1.2.1)
